@@ -59,4 +59,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-Copy this content into a `README.md` file in the root of your GitHub repository. Feel free to customize the sections or add more details as per your project's specifics.
